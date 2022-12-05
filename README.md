@@ -1,9 +1,17 @@
-# Reference Implementation Contracts
+# Mudbasics
 
-### Upgrading Facets
+GOAT explorer using MUD game engine
 
-Run `yarn hardhat:deploy:upgrade` to only upgrade Diamond contracts.
+## Getting started
 
-### Adding new functions
+yarn install in root dir
 
-When adding new facets or new functions to existing facets, make sure to add the function selectors in `src/test/utils/Deploy.sol`.
+cd to packages/contracts
+
+
+yarn anvil:node
+yarn deploy:anvil
+
+cd to packages/client
+
+yarn start
