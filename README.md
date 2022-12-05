@@ -1,6 +1,6 @@
 # Mudbasics
 
-GOAT explorer using MUD game engine
+GOAT Sim using MUD game engine
 
 Youtube Demo : https://www.youtube.com/watch?v=5sKfpKGrw98
 
