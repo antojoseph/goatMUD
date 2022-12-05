@@ -2,6 +2,8 @@
 
 GOAT explorer using MUD game engine
 
+Youtube Demo : https://www.youtube.com/watch?v=5sKfpKGrw98
+
 ## Getting started
 
 yarn install in root dir
