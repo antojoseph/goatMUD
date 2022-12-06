@@ -8,13 +8,15 @@ goatMUD is a simple goat simulator game that uses the MUD game engine https://mu
 We wanted to build a fully on-chain game where every asset and action is recorded on-chain unlike most games which only has some on-chain components, we also didn't want to do a yet another nft gaming project ;) 
 
 #Tech Stack
-
+````
+```
 MUD Game Engine
 OPtimism Bedrock
 Hardhat
 Typescript
 Solidity
-
+````
+```
 
 #Preview
 ![goatMUD](https://raw.githubusercontent.com/antojoseph/goatMUD/main/goat.png)
