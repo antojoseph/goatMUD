@@ -15,10 +15,11 @@ OPtimism Bedrock
 Hardhat
 Typescript
 Solidity
-````
 ```
+````
 
 #Preview
+
 ![goatMUD](https://raw.githubusercontent.com/antojoseph/goatMUD/main/goat.png)
 
 #Youtube Demo
