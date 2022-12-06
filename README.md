@@ -1,6 +1,6 @@
 #What is goatMUD
 
-goatMUD is a simple goat simulator game that uses the MUD game engine from http://lattice.xyz MUD is an amazing game engine to create blockchain games as it abstracts the networking part of the loop and allows the developer to focus on the game itself. The game can be deployed to an Optimistic rollup or our own fork of optimism bedrock that allows for cheaper or free transactions for players while still preserving the blockchain properties of OP rollups like settlement to l1 ethereum , fraud proofs etc.
+goatMUD is a simple goat simulator game that uses the MUD game engine https://mud.dev/ from http://lattice.xyz MUD is an amazing game engine to create blockchain games as it abstracts the networking part of the loop and allows the developer to focus on the game itself. The game can be deployed to an Optimistic rollup or our own fork of optimism bedrock that allows for cheaper or free transactions for players while still preserving the blockchain properties of OP rollups like settlement to l1 ethereum , fraud proofs etc.
 
 
 #Why Build this?
