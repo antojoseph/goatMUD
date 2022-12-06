@@ -17,9 +17,14 @@ Solidity
 
 
 #Preview
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-Youtube Demo : https://www.youtube.com/watch?v=5sKfpKGrw98
+![goatMUD](https://raw.githubusercontent.com/antojoseph/goatMUD/main/goat.png)
 
+#Youtube Demo
+````
+```
+https://www.youtube.com/watch?v=5sKfpKGrw98
+```
+````
 ## Getting started
 ````
 ```
